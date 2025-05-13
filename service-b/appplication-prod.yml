@@ -1,0 +1,5 @@
+service:
+  name: "app-prod"
+  version: "1.0.0"
+  description: "Production version of the application"
+  environment: "production"
