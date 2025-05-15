@@ -1,5 +1,5 @@
 service:
-    name: "test service for dev-B"
+    name: "202034916 박선준"
     version: "1.0.0"
     description: "Production version of the application"
     environment: "production"
